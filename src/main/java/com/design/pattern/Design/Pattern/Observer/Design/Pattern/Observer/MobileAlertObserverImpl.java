@@ -1,6 +1,6 @@
-package com.design.pattern.Design.Pattern.ObserverDesignPattern.Observer;
+package com.design.pattern.Design.Pattern.Observer.Design.Pattern.Observer;
 
-import com.design.pattern.Design.Pattern.ObserverDesignPattern.Observable.StocksObservable;
+import com.design.pattern.Design.Pattern.Observer.Design.Pattern.Observable.StocksObservable;
 
 public class MobileAlertObserverImpl implements NotificationAlertObserver {
 

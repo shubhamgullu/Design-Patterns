@@ -1,6 +1,6 @@
-package com.design.pattern.Design.Pattern.ObserverDesignPattern.Observable;
+package com.design.pattern.Design.Pattern.Observer.Design.Pattern.Observable;
 
-import com.design.pattern.Design.Pattern.ObserverDesignPattern.Observer.NotificationAlertObserver;
+import com.design.pattern.Design.Pattern.Observer.Design.Pattern.Observer.NotificationAlertObserver;
 
 public interface StocksObservable {
 

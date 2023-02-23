@@ -1,4 +1,4 @@
-package com.design.pattern.Design.Pattern.StrategyDesignPattern.WithStrategyDesignPattern.Stretegy;
+package com.design.pattern.Design.Pattern.Strategy.Design.Pattern.WithStrategyDesignPattern.Stretegy;
 
 public class SportyDrive implements DriveStrategy {
     @Override

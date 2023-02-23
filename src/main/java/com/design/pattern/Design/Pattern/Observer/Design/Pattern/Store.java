@@ -1,10 +1,10 @@
-package com.design.pattern.Design.Pattern.ObserverDesignPattern;
+package com.design.pattern.Design.Pattern.Observer.Design.Pattern;
 
-import com.design.pattern.Design.Pattern.ObserverDesignPattern.Observable.IphoneObservableImpl;
-import com.design.pattern.Design.Pattern.ObserverDesignPattern.Observable.StocksObservable;
-import com.design.pattern.Design.Pattern.ObserverDesignPattern.Observer.EmailAlertObserverImpl;
-import com.design.pattern.Design.Pattern.ObserverDesignPattern.Observer.MobileAlertObserverImpl;
-import com.design.pattern.Design.Pattern.ObserverDesignPattern.Observer.NotificationAlertObserver;
+import com.design.pattern.Design.Pattern.Observer.Design.Pattern.Observable.IphoneObservableImpl;
+import com.design.pattern.Design.Pattern.Observer.Design.Pattern.Observable.StocksObservable;
+import com.design.pattern.Design.Pattern.Observer.Design.Pattern.Observer.EmailAlertObserverImpl;
+import com.design.pattern.Design.Pattern.Observer.Design.Pattern.Observer.MobileAlertObserverImpl;
+import com.design.pattern.Design.Pattern.Observer.Design.Pattern.Observer.NotificationAlertObserver;
 
 public class Store {
     public static void main(String[] args) {

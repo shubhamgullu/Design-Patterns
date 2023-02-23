@@ -1,4 +1,4 @@
-package com.design.pattern.Design.Pattern.StrategyDesignPattern.WithoutStrategyDesignPattern;
+package com.design.pattern.Design.Pattern.Strategy.Design.Pattern.WithoutStrategyDesignPattern;
 
 public class PassangerVehicle extends Vehicle {
 
