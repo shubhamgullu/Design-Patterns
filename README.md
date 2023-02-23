@@ -9,4 +9,9 @@
 
 ## Observer Design Patterns
 
-    in this flow we have to create notify service for amazon 
+    in this flow we have to create notify service for amazon.
+
+
+## Decorator Design Pattern
+    
+    in this flow we are creating pizza with different different addons.
